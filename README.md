@@ -102,15 +102,19 @@ GET /api/shopping-cart/items → Listar ítems del carrito
 
 PUT /api/payments → Realizar la compra y actualizar el estado del carrito
 
+---
 
 🌐 Mejoras futuras
 
 Integración de autenticación y autorización con Spring Security + JWT.
 
+---
 
 💻 Pruebas
 
 Todos los endpoints pueden ejecutarse desde Postman.
+
+---
 
 👨‍💻 Autor
 
