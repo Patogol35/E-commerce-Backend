@@ -60,7 +60,45 @@ Spring Cloud (Eureka, Gateway)
 
 PostgreSQL
 
+Maven
+
 Postman (para pruebas de endpoints)
+
+
+---
+
+🚀 Endpoints principales
+
+🔹 Microservicio Buscador (Productos)
+
+POST /api/products → Registrar producto
+
+GET /api/products → Listar productos
+
+GET /api/products/{id} → Buscar producto por ID
+
+GET /api/products/category/{id_category} → Listar productos por categoría
+
+GET /api/products/name/{nombre} → Buscar producto por nombre
+
+GET /api/products/price/{precio} → Listar productos con precio menor o igual
+
+PUT /api/products → Actualizar producto
+
+PUT /api/products/activate-deactivate → Activar/Desactivar producto
+
+POST /api/products/stock → Validar stock disponible
+
+
+🔹 Microservicio Operador (Carrito de Compras)
+
+POST /api/shopping-cart → Crear o actualizar carrito
+
+DELETE /api/shopping-cart/{id_producto} → Eliminar ítem del carrito
+
+GET /api/shopping-cart/items → Listar ítems del carrito
+
+PUT /api/payments → Realizar la compra y actualizar el estado del carrito
 
 ---
 
@@ -70,10 +108,15 @@ Todos los endpoints pueden ejecutarse desde Postman.
 
 ---
 
+En el repositorio se adjuntan:
+
+- 📂 Archivos de base de datos
+- 📂 Colección de **Postman** lista para importar y ejecutar las pruebas.  
+
+
+---
+
 👨‍💻 Autor
 
 Jorge Patricio Santamaría Cherrez
 Máster en Ingeniería de Software y Sistemas Informáticos
-
-
----
