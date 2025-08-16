@@ -65,34 +65,6 @@ Maven
 
 Postman (para pruebas de endpoints)
 
-
----
-
-🚀 Endpoints principales
-
-🔹 Microservicio Buscador (Productos)
-
-POST /api/products → Registrar producto
-
-GET /api/products → Listar productos
-
-PUT /api/products → Actualizar producto
-
-PUT /api/products/activate-deactivate → Activar/Desactivar producto
-
-POST /api/products/stock → Validar stock disponible
-
-
-🔹 Microservicio Operador (Carrito de Compras)
-
-POST /api/shopping-cart → Crear o actualizar carrito
-
-DELETE /api/shopping-cart/{id_producto} → Eliminar ítem del carrito
-
-GET /api/shopping-cart/items → Listar ítems del carrito
-
-PUT /api/payments → Realizar la compra y actualizar el estado del carrito
-
 ---
 
 💻 Pruebas
