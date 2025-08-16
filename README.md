@@ -4,6 +4,8 @@
 
 Este proyecto consiste en el desarrollo de un Back-End de carrito de compras bajo una arquitectura de microservicios, implementado con Java (Spring Boot) y PostgreSQL.
 
+---
+
 La solución está compuesta por dos microservicios principales:
 
 Microservicio Buscador
@@ -22,9 +24,6 @@ Consultar productos por diferentes criterios: ID, categoría, nombre, precio má
 
 
 Este servicio expone endpoints REST que retornan respuestas estructuradas en JSON y códigos de estado HTTP adecuados (200, 201, 400, 404).
-
-
----
 
 Microservicio Operador
 
