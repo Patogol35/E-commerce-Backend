@@ -61,8 +61,6 @@ Spring Cloud (Eureka, Gateway)
 
 PostgreSQL
 
-Maven
-
 Postman (para pruebas de endpoints)
 
 ---
@@ -80,4 +78,3 @@ Máster en Ingeniería de Software y Sistemas Informáticos
 
 
 ---
-
