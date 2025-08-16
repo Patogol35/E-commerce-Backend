@@ -1,4 +1,4 @@
-🛒 Carrito de Compras - Microservicios con Spring Boot & PostgreSQL
+lo🛒 Carrito de Compras - Microservicios con Spring Boot & PostgreSQL
 
 📌 Descripción
 
@@ -8,7 +8,7 @@ La solución está compuesta por dos microservicios principales:
 
 Microservicio Buscador: encargado de la gestión de productos (registro, actualización, eliminación lógica, validación de stock, asociación a categorías).
 
-Microservicio Operador: responsable de la administración del carrito de compras (agregar, actualizar, eliminar ítems, calcular el total y procesar compras).
+Microservicio Operador: responsable de la administración del carrito de compras. Permite crear y actualizar carritos, agregar y eliminar ítems, listar productos del carrito, calcular el total y procesar compras. Expone endpoints REST que retornan códigos de estado HTTP apropiados (201, 200, 400, 404) según la operación realizada.
 
 
 Además, se integran Spring Cloud Gateway como servidor perimetral y Eureka Server como registro de servicios para el descubrimiento dinámico.
