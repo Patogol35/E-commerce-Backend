@@ -40,7 +40,6 @@ Calcular el subtotal de los ítems.
 
 Procesar compras y actualizar el estado del carrito.
 
-
 Al igual que el Buscador, expone endpoints REST que devuelven códigos de estado HTTP apropiados (200, 201, 400, 404).
 Este microservicio puede integrarse con el Buscador para validar la existencia de productos y disponibilidad de stock antes de completar una compra.
 
@@ -65,7 +64,6 @@ PostgreSQL
 Maven
 
 Postman (para pruebas de endpoints)
-
 
 
 ---
