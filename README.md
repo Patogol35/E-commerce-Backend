@@ -109,6 +109,14 @@ Todos los endpoints pueden ejecutarse desde Postman.
 
 ---
 
+En el repositorio se adjuntan:
+
+- 📂 Archivos de base de datos
+- 📂 Colección de **Postman** lista para importar y ejecutar las pruebas.  
+
+
+---
+
 👨‍💻 Autor
 
 Jorge Patricio Santamaría Cherrez
