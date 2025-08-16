@@ -1,0 +1,16 @@
+INSERT INTO products_categories (product_id, category_id) VALUES (1, 1);
+INSERT INTO products_categories (product_id, category_id) VALUES (1, 2);
+INSERT INTO products_categories (product_id, category_id) VALUES (2, 3);
+INSERT INTO products_categories (product_id, category_id) VALUES (2, 4);
+INSERT INTO products_categories (product_id, category_id) VALUES (3, 5);
+INSERT INTO products_categories (product_id, category_id) VALUES (3, 6);
+INSERT INTO products_categories (product_id, category_id) VALUES (4, 7);
+INSERT INTO products_categories (product_id, category_id) VALUES (4, 8);
+INSERT INTO products_categories (product_id, category_id) VALUES (5, 9);
+INSERT INTO products_categories (product_id, category_id) VALUES (5, 10);
+INSERT INTO products_categories (product_id, category_id) VALUES (6, 1);
+INSERT INTO products_categories (product_id, category_id) VALUES (6, 2);
+INSERT INTO products_categories (product_id, category_id) VALUES (7, 3);
+INSERT INTO products_categories (product_id, category_id) VALUES (7, 4);
+INSERT INTO products_categories (product_id, category_id) VALUES (8, 5);
+INSERT INTO products_categories (product_id, category_id) VALUES (8, 6);
