@@ -76,14 +76,6 @@ POST /api/products → Registrar producto
 
 GET /api/products → Listar productos
 
-GET /api/products/{id} → Buscar producto por ID
-
-GET /api/products/category/{id_category} → Listar productos por categoría
-
-GET /api/products/name/{nombre} → Buscar producto por nombre
-
-GET /api/products/price/{precio} → Listar productos con precio menor o igual
-
 PUT /api/products → Actualizar producto
 
 PUT /api/products/activate-deactivate → Activar/Desactivar producto
