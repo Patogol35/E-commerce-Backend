@@ -1,4 +1,4 @@
-lo🛒 Carrito de Compras - Microservicios con Spring Boot & PostgreSQL
+🛒 Carrito de Compras - Microservicios con Spring Boot
 
 📌 Descripción
 
