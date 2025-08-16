@@ -44,6 +44,7 @@ Procesar compras y actualizar el estado del carrito.
 Al igual que el Buscador, expone endpoints REST que devuelven códigos de estado HTTP apropiados (200, 201, 400, 404).
 Este microservicio puede integrarse con el Buscador para validar la existencia de productos y disponibilidad de stock antes de completar una compra.
 
+---
 
 Además, se integran Spring Cloud Gateway como servidor perimetral y Eureka Server como registro de servicios para el descubrimiento dinámico.
 
