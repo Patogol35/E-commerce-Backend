@@ -18,7 +18,7 @@ Realizar eliminación lógica (activación/desactivación).
 
 Validar stock disponible.
 
-Consultar productos por diferentes criterios: ID, categoría, nombre, precio máximo, calificación mínima.
+Consultar productos por diferentes criterios: ID, categoría, nombre, precio máximo, calificación.
 
 
 Este servicio expone endpoints REST que retornan respuestas estructuradas en JSON y códigos de estado HTTP adecuados (200, 201, 400, 404).
