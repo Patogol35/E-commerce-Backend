@@ -119,4 +119,5 @@ En el repositorio se adjuntan:
 👨‍💻 Autor
 
 Jorge Patricio Santamaría Cherrez
+
 Máster en Ingeniería de Software y Sistemas Informáticos
